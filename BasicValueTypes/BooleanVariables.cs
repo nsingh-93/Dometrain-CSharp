@@ -1,6 +1,6 @@
 public class BooleanVariables
 {
-    public void RunBooleans()
+    public static void RunBooleans()
     {
         // BOOLEAN
         Console.WriteLine();

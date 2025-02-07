@@ -1,6 +1,6 @@
 public class DateTimeVariables
 {
-    public void RunDateTimes()
+    public static void RunDateTimes()
     {
         // DATETIME
         Console.WriteLine();

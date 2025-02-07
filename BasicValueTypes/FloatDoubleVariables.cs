@@ -1,6 +1,6 @@
 public class FloatDoubleVariables
 {
-    public void RunFloatDoubles()
+    public static void RunFloatDoubles()
     {
         // FLOAT & DOUBLE
         Console.WriteLine();
