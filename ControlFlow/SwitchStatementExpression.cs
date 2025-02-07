@@ -1,4 +1,6 @@
-public class SwitchStatementAndExpression
+namespace ControlFlow;
+
+public class SwitchStatementExpression
 {
     public static void RunSwitch()
     {

@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class BooleanVariables
 {
     public static void RunBooleans()

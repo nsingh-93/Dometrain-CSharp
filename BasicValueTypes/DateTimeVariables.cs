@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class DateTimeVariables
 {
     public static void RunDateTimes()

@@ -1,3 +1,5 @@
+namespace ControlFlow;
+
 public class IfStatements
 {
     public static void RunIfStatements()
@@ -13,6 +15,7 @@ public class IfStatements
         }
 
         bool condition = true;
+
         if (condition)
         {
             Console.WriteLine("Prints when the condition is true!");
@@ -56,6 +59,7 @@ public class IfStatements
         }
 
         number = 6;
+
         if (number >= 1 && number <= 5)
         {
             Console.WriteLine("Number is between 1 and 5");

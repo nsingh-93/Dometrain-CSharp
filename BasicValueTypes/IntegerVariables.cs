@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class IntegerVariables
 {
     public static void RunIntegers()

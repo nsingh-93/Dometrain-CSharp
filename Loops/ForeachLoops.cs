@@ -1,3 +1,5 @@
+namespace Loops;
+
 public class ForeachLoops
 {
     public static void RunForeachLoops()

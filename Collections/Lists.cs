@@ -1,3 +1,5 @@
+namespace Collections;
+
 public class Lists
 {
     public static void RunLists()
@@ -13,7 +15,7 @@ public class Lists
         string thirdWord = words[2];
 
         words[0] = "four";
-       
+
         List<int> numbers = new List<int>
         {
             1,
@@ -28,12 +30,13 @@ public class Lists
         numbers.Remove(2);
         numbers.Remove(3);
 
+
         numbers.Insert(0, 1);
         numbers.Insert(0, 2);
         numbers.Insert(1, 3);
 
         numbers.Clear();
-        
+
         words.Sort();
     }
 }

@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class StringVariables
 {
     public static void RunStrings()
