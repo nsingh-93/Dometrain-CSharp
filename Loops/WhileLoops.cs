@@ -1,3 +1,5 @@
+namespace Loops;
+
 public class WhileLoops
 {
     public static void RunWhileLoops()
@@ -12,6 +14,7 @@ public class WhileLoops
 
         Console.WriteLine($"Total count is {count}!");
 
+
         count = 0;
 
         do
@@ -21,6 +24,7 @@ public class WhileLoops
         } while (count < 5);
 
         Console.WriteLine($"Total count is {count}!");
+
 
         count = 0;
 
@@ -32,6 +36,7 @@ public class WhileLoops
 
         Console.WriteLine($"Total count is {count}!");
 
+
         count = 0;
 
         do
@@ -41,6 +46,7 @@ public class WhileLoops
         } while (count > 5);
 
         Console.WriteLine($"Total count is {count}!");
+
 
         count = 0;
 

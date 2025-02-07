@@ -1,3 +1,5 @@
+namespace Loops;
+
 public class ForLoops
 {
     public static void RunForLoops()

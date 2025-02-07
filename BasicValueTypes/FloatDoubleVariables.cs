@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class FloatDoubleVariables
 {
     public static void RunFloatDoubles()

@@ -1,3 +1,5 @@
+namespace Collections;
+
 public class Dictionaries
 {
     public static void RunDicts()
@@ -46,16 +48,15 @@ public class Dictionaries
         numbersToWords2.Remove(1);
         numbersToWords2.Remove(2);
 
+
         numbersToWords3.Clear();
         numbersToWords4.Clear();
 
         bool contains = numbersToWords2.ContainsKey(3);
 
-        bool contains2 = numbersToWords2.TryGetValue(
-            3,
-            out string? value);
+        bool contains2 = numbersToWords2.TryGetValue(3, out string? value);
 
-        // Errors
+        // Error caused here
         wordsToNumbers["one"] = 1;
         numbersToWords2[1] = "one";
     }

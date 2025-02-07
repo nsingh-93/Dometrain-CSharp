@@ -1,3 +1,5 @@
+namespace Collections;
+
 public class Arrays
 {
     public static void RunArrays()

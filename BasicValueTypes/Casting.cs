@@ -1,3 +1,5 @@
+namespace BasicValueTypes;
+
 public class Casting
 {
     public static void RunCastings()
