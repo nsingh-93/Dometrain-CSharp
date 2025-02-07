@@ -1,6 +1,6 @@
 public class IntegerVariables
 {
-    public void RunIntegers()
+    public static void RunIntegers()
     {
         // INTEGERS
         Console.WriteLine();

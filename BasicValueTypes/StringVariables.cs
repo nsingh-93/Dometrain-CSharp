@@ -1,6 +1,6 @@
 public class StringVariables
 {
-    public void RunStrings()
+    public static void RunStrings()
     {
         // STRINGS
         Console.WriteLine();

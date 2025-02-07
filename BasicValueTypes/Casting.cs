@@ -1,6 +1,6 @@
 public class Casting
 {
-    public void RunCastings()
+    public static void RunCastings()
     {
         // CASTING/PARSING
         Console.WriteLine();
