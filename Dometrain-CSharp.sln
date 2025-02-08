@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProject", "FirstProject\FirstProject.csproj", "{41B1091D-1400-4AAF-AFAD-0A4EFA63C7AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProject", "getting-started\FirstProject\FirstProject.csproj", "{41B1091D-1400-4AAF-AFAD-0A4EFA63C7AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicValueTypes", "BasicValueTypes\BasicValueTypes.csproj", "{FE9AD695-FC96-4E89-B80E-D8928E8ED925}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicValueTypes", "getting-started\BasicValueTypes\BasicValueTypes.csproj", "{FE9AD695-FC96-4E89-B80E-D8928E8ED925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{104C14B9-91D1-41BC-A65A-D6C496EFAC10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "getting-started\ControlFlow\ControlFlow.csproj", "{104C14B9-91D1-41BC-A65A-D6C496EFAC10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{479901A4-6FA7-4B0C-A48D-8C1F9CC61A87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "getting-started\Collections\Collections.csproj", "{479901A4-6FA7-4B0C-A48D-8C1F9CC61A87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{8919502C-8FFF-49CD-AB29-837876F339E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "getting-started\Loops\Loops.csproj", "{8919502C-8FFF-49CD-AB29-837876F339E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{46980172-E3F6-44E2-975D-8E552086F2C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "getting-started\Methods\Methods.csproj", "{46980172-E3F6-44E2-975D-8E552086F2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingAndExceptions", "getting-started\DebuggingAndExceptions\DebuggingAndExceptions.csproj", "{773C0112-FBF6-42B4-92E6-CB6F3855560C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriented", "getting-started\ObjectOriented\ObjectOriented.csproj", "{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +52,13 @@ Global
 		{46980172-E3F6-44E2-975D-8E552086F2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46980172-E3F6-44E2-975D-8E552086F2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46980172-E3F6-44E2-975D-8E552086F2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773C0112-FBF6-42B4-92E6-CB6F3855560C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773C0112-FBF6-42B4-92E6-CB6F3855560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773C0112-FBF6-42B4-92E6-CB6F3855560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773C0112-FBF6-42B4-92E6-CB6F3855560C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
