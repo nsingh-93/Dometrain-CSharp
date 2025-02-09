@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\ObjectOriented\\ObjectOriented.csproj": {}
+    "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\getting-started\\ObjectOriented\\ObjectOriented.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\ObjectOriented\\ObjectOriented.csproj": {
+    "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\getting-started\\ObjectOriented\\ObjectOriented.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\ObjectOriented\\ObjectOriented.csproj",
+        "projectUniqueName": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\getting-started\\ObjectOriented\\ObjectOriented.csproj",
         "projectName": "ObjectOriented",
-        "projectPath": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\ObjectOriented\\ObjectOriented.csproj",
+        "projectPath": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\getting-started\\ObjectOriented\\ObjectOriented.csproj",
         "packagesPath": "C:\\Users\\neilsingh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\ObjectOriented\\obj\\",
+        "outputPath": "C:\\Users\\neilsingh\\repos\\Dometrain-CSharp\\getting-started\\ObjectOriented\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neilsingh\\AppData\\Roaming\\NuGet\\NuGet.Config"
