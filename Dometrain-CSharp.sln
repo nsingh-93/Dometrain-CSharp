@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingAndExceptions", "g
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriented", "getting-started\ObjectOriented\ObjectOriented.csproj", "{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "getting-started\Demo\Demo.csproj", "{06645E55-A11A-4FB5-BE33-D400E5603C99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7022FF1D-EF15-45B9-80F3-DAC850DB4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06645E55-A11A-4FB5-BE33-D400E5603C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06645E55-A11A-4FB5-BE33-D400E5603C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06645E55-A11A-4FB5-BE33-D400E5603C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06645E55-A11A-4FB5-BE33-D400E5603C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
