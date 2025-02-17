@@ -43,6 +43,8 @@ public class Events
 
         source.RaiseEvent("Hello world from Neil");
 
+        source.SourceChanged -= Source_SourceChanged1;
+        source.SourceChanged -= Source_SourceChanged2;
 
         void Source_SourceChanged(object? sender, MessageEventArgs e)
         {
