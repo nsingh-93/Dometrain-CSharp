@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiProject.Console", "dee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiProject.ClassLibrary", "deep-dive\MultiProject.ClassLibrary\MultiProject.ClassLibrary.csproj", "{C47BBE65-E03C-4EC5-88DC-F6A28B92E151}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncParallelMultithread", "deep-dive\AsyncParallelMultithread\AsyncParallelMultithread.csproj", "{24651F12-84DB-4946-809B-537FB879F4B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,18 @@ Global
 		{C47BBE65-E03C-4EC5-88DC-F6A28B92E151}.Release|x64.Build.0 = Release|Any CPU
 		{C47BBE65-E03C-4EC5-88DC-F6A28B92E151}.Release|x86.ActiveCfg = Release|Any CPU
 		{C47BBE65-E03C-4EC5-88DC-F6A28B92E151}.Release|x86.Build.0 = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|x64.Build.0 = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Debug|x86.Build.0 = Debug|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|x64.ActiveCfg = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|x64.Build.0 = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|x86.ActiveCfg = Release|Any CPU
+		{24651F12-84DB-4946-809B-537FB879F4B2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,5 +261,6 @@ Global
 		{852705CF-E02D-440C-8513-18A8433625E6} = {B9145B2F-7D47-4F8E-A620-D13E90989CCE}
 		{E8E722AA-069B-4E82-9278-F55ED53294C6} = {B9145B2F-7D47-4F8E-A620-D13E90989CCE}
 		{C47BBE65-E03C-4EC5-88DC-F6A28B92E151} = {B9145B2F-7D47-4F8E-A620-D13E90989CCE}
+		{24651F12-84DB-4946-809B-537FB879F4B2} = {B9145B2F-7D47-4F8E-A620-D13E90989CCE}
 	EndGlobalSection
 EndGlobal
